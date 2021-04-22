@@ -47,3 +47,8 @@ https://bscscan.com/token/0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
 ```
  - Click on BNB BSC max, you can adjust the quantity
  - Swap and Confirm ✅
+
+ ------
+ **Pancake swap link**
+
+ https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
