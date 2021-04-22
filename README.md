@@ -20,7 +20,13 @@ https://t.me/joinchat/tOICrnYwpn9kODE0
 
 3. How To Buy SafeBank On Pancake Swap. https://t.me/joinchat/YnzjkqbcszsxYjM8
 
-Beware of Fake SafeBank only use verified contract address to buy. 0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+Beware of Fake SafeBank only use verified contract address to buy.
+
+https://bscscan.com/token/0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+```
+0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+```
+
 
 **How To Buy SafeBankToken**
 
