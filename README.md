@@ -18,13 +18,13 @@ https://t.me/joinchat/kMvTYJmi0x9kZDI8
 2. How To Buy BNB (BEP20 Network) TrustWallet & Binance.  
 https://t.me/joinchat/tOICrnYwpn9kODE0
 
-3. How To Buy SafeBank On Pancake Swap. https://t.me/joinchat/YnzjkqbcszsxYjM8
+3. How To Buy SafeBANK On Pancake Swap. https://t.me/joinchat/YnzjkqbcszsxYjM8
 
-Beware of Fake SafeBank only use verified contract address to buy.
+Beware of Fake SafeBANK only use verified contract address to buy.
 
-https://bscscan.com/token/0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+https://bscscan.com/token/0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a
 ```
-0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a
 ```
 
 
@@ -43,7 +43,7 @@ https://bscscan.com/token/0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
  - Select pancakeswap 
  - Input the contract address below BNB BSC 
  ```
- 0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+ 0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a
 ```
  - Click on BNB BSC max, you can adjust the quantity
  - Swap and Confirm ✅
@@ -51,4 +51,8 @@ https://bscscan.com/token/0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
  ------
  **Pancake swap link**
 
- https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x52e22d2480bc39f4ab13d4788014aec3195bbcf7
+https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a
+
+## Pancake Liqudity pool
+
+https://cryptexlock.me/pair/0xaFd5f73bD454C1Aa0D0e09355D4A43863E09484F
